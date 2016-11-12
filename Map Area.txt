@@ -1,0 +1,9 @@
+The area under analysis is the Mumbai city area in India 
+
+The link for the OSM XML file for Mumbai area: https://mapzen.com/data/metro-extracts/metro/mumbai_india/
+
+I chose the Mumbai city area since it is my home city. The dataset cover not just the Mumbai city area but cover 
+a wide chunk of the suburban areas to the north (Vasai area) and to the west (Navi Mumbai, Thane and other costal areas).
+The link provided shows a rectangle covering the off coastal area as well. The dataset is highly human generated, something
+which the analysis also shows, this is one of the prime reasons for the poor quality of the data. An attempt has been made to
+clean the data well before any analysis is performed on it. 

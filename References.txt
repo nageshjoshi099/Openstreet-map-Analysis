@@ -1,0 +1,4 @@
+The sample project (https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md) 
+provided in the course proved to be a good reference.
+
+Stackoverflow and Udactity forums were used extensively to find answers to some tough questions.
